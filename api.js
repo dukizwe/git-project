@@ -1,1 +1,2 @@
-const vards = 'dsdhsh'
+var vards = 'dsdhsh';
+vards = 'dsdhsh'
